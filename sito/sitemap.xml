@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://neobytestudios.com/</loc>
+    <xhtml:link rel="alternate" hreflang="it" href="https://neobytestudios.com/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://neobytestudios.com/en/"/>
+  </url>
+  <url>
+    <loc>https://neobytestudios.com/giochi/</loc>
+    <xhtml:link rel="alternate" hreflang="it" href="https://neobytestudios.com/giochi/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://neobytestudios.com/en/games/"/>
+  </url>
+  <url>
+    <loc>https://neobytestudios.com/giochi/sigilli-dell-eclisse/</loc>
+    <xhtml:link rel="alternate" hreflang="it" href="https://neobytestudios.com/giochi/sigilli-dell-eclisse/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://neobytestudios.com/en/games/sigilli-dell-eclisse/"/>
+  </url>
+  <url>
+    <loc>https://neobytestudios.com/diario/</loc>
+    <xhtml:link rel="alternate" hreflang="it" href="https://neobytestudios.com/diario/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://neobytestudios.com/en/log/"/>
+  </url>
+  <url>
+    <loc>https://neobytestudios.com/diario/sigilli-in-rotta-verso-google-play/</loc>
+    <xhtml:link rel="alternate" hreflang="it" href="https://neobytestudios.com/diario/sigilli-in-rotta-verso-google-play/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://neobytestudios.com/en/log/sigilli-in-rotta-verso-google-play/"/>
+  </url>
+  <url>
+    <loc>https://neobytestudios.com/assistenza/</loc>
+    <xhtml:link rel="alternate" hreflang="it" href="https://neobytestudios.com/assistenza/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://neobytestudios.com/en/support/"/>
+  </url>
+  <url>
+    <loc>https://neobytestudios.com/stampa/</loc>
+    <xhtml:link rel="alternate" hreflang="it" href="https://neobytestudios.com/stampa/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://neobytestudios.com/en/press/"/>
+  </url>
+  <url>
+    <loc>https://neobytestudios.com/en/</loc>
+    <xhtml:link rel="alternate" hreflang="it" href="https://neobytestudios.com/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://neobytestudios.com/en/"/>
+  </url>
+  <url>
+    <loc>https://neobytestudios.com/en/games/</loc>
+    <xhtml:link rel="alternate" hreflang="it" href="https://neobytestudios.com/giochi/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://neobytestudios.com/en/games/"/>
+  </url>
+  <url>
+    <loc>https://neobytestudios.com/en/games/sigilli-dell-eclisse/</loc>
+    <xhtml:link rel="alternate" hreflang="it" href="https://neobytestudios.com/giochi/sigilli-dell-eclisse/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://neobytestudios.com/en/games/sigilli-dell-eclisse/"/>
+  </url>
+  <url>
+    <loc>https://neobytestudios.com/en/log/</loc>
+    <xhtml:link rel="alternate" hreflang="it" href="https://neobytestudios.com/diario/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://neobytestudios.com/en/log/"/>
+  </url>
+  <url>
+    <loc>https://neobytestudios.com/en/log/sigilli-in-rotta-verso-google-play/</loc>
+    <xhtml:link rel="alternate" hreflang="it" href="https://neobytestudios.com/diario/sigilli-in-rotta-verso-google-play/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://neobytestudios.com/en/log/sigilli-in-rotta-verso-google-play/"/>
+  </url>
+  <url>
+    <loc>https://neobytestudios.com/en/support/</loc>
+    <xhtml:link rel="alternate" hreflang="it" href="https://neobytestudios.com/assistenza/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://neobytestudios.com/en/support/"/>
+  </url>
+  <url>
+    <loc>https://neobytestudios.com/en/press/</loc>
+    <xhtml:link rel="alternate" hreflang="it" href="https://neobytestudios.com/stampa/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://neobytestudios.com/en/press/"/>
+  </url>
+</urlset>

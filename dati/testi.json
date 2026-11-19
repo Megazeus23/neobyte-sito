@@ -1,0 +1,444 @@
+{
+  "it": {
+    "meta": {
+      "titoloHome": "NeoByte Studios — Ogni gioco è un mondo",
+      "descrizioneHome": "NeoByte Studios è uno studio indipendente italiano che costruisce videogiochi originali per telefono e PC. Esplora i nostri mondi e scopri dove trovarli.",
+      "titoloGiochi": "Mappa dei mondi — NeoByte Studios",
+      "descrizioneGiochi": "Tutti i videogiochi di NeoByte Studios, con i link agli store dove trovarli.",
+      "titolo404": "Segnale perso — NeoByte Studios",
+      "titoloDiario": "Diario di bordo — NeoByte Studios",
+      "descrizioneDiario": "Le novità di NeoByte Studios: lanci, aggiornamenti e rotte nuove dei nostri giochi.",
+      "titoloAssistenza": "Assistenza — NeoByte Studios",
+      "descrizioneAssistenza": "Domande frequenti sui giochi di NeoByte Studios e contatti dell'assistenza.",
+      "titoloStampa": "Sala stampa — NeoByte Studios",
+      "descrizioneStampa": "Logo, immagini e descrizioni dei giochi di NeoByte Studios, pronti da scaricare."
+    },
+    "nav": {
+      "giochi": "Giochi",
+      "studio": "Missione",
+      "contatti": "Contatti",
+      "salta": "Vai al contenuto",
+      "home": "NeoByte Studios, pagina iniziale",
+      "lingua": "Lingua",
+      "principale": "Navigazione principale",
+      "diario": "Diario",
+      "assistenza": "Assistenza",
+      "stampa": "Stampa",
+      "menu": "Menu",
+      "chiudiMenu": "Chiudi"
+    },
+    "hero": {
+      "occhiello": "Studio indipendente di videogiochi · Italia",
+      "motto": [
+        "Ogni gioco è un mondo.",
+        "Noi li costruiamo."
+      ],
+      "testo": "Videogiochi originali per telefono e PC. Ogni titolo è un mondo nuovo, con la sua storia, le sue regole e la sua luce.",
+      "azione": "Esplora i mondi",
+      "azione2": "La missione",
+      "telemetria": [
+        "Settore 4E·42",
+        "Mondi in mappa",
+        "Rotta libera"
+      ],
+      "scorri": "Scorri per partire"
+    },
+    "giochi": {
+      "etichetta": "Giochi",
+      "titolo": "Mappa dei mondi",
+      "sottotitolo": "Ogni gioco di NeoByte Studios è un mondo su questa mappa, con la rotta verso gli store dove trovarlo.",
+      "inEvidenza": "Mondo in evidenza",
+      "mondo": "Mondo",
+      "scopri": "Entra nel mondo",
+      "altri": "Altri mondi",
+      "tutti": "Tutti i giochi",
+      "vediTutti": "Apri la mappa completa",
+      "prossimoTitolo": "Settore inesplorato",
+      "prossimoTesto": "Qui comparirà il prossimo mondo di NeoByte Studios.",
+      "prossimoEtichetta": "Nessun segnale",
+      "filtro": "Filtra per stato",
+      "filtroTutti": "Tutti",
+      "vuoto": "Nessun mondo con questo stato."
+    },
+    "stato": {
+      "in-sviluppo": "In sviluppo",
+      "in-arrivo": "In arrivo",
+      "disponibile": "Disponibile"
+    },
+    "store": {
+      "disponibileSu": "Disponibile su",
+      "prestoSu": "Presto su",
+      "inArrivoSu": "In arrivo su",
+      "inSviluppo": "In sviluppo: gli store arriveranno più avanti.",
+      "apreNuova": "si apre in una nuova scheda",
+      "titolo": "Dove trovarlo"
+    },
+    "piattaforme": {
+      "android": "Android",
+      "ios": "iOS",
+      "pc": "PC",
+      "mac": "Mac",
+      "linux": "Linux",
+      "web": "Browser",
+      "console": "Console"
+    },
+    "gioco": {
+      "indietro": "Mappa dei mondi",
+      "avvicinamento": "In avvicinamento",
+      "superficie": "Vista dalla superficie",
+      "ilGioco": "Il mondo",
+      "caratteristiche": "Cosa ti aspetta",
+      "schermate": "Schermate",
+      "schermateTesto": "Tocca un'immagine per ingrandirla.",
+      "trailer": "Trailer",
+      "guardaTrailer": "Guarda il trailer",
+      "trailerNota": "Il video si carica da YouTube solo dopo il tocco.",
+      "scheda": "Scheda",
+      "genere": "Genere",
+      "piattaforme": "Piattaforme",
+      "stato": "Stato",
+      "sviluppatore": "Sviluppatore",
+      "legali": "Documenti del gioco",
+      "privacy": "Informativa sulla privacy",
+      "termini": "Termini d'uso",
+      "eliminazioneAccount": "Eliminazione dell'account",
+      "assistenza": "Assistenza",
+      "altriGiochi": "Altri mondi",
+      "chiudi": "Chiudi",
+      "precedente": "Immagine precedente",
+      "successiva": "Immagine successiva",
+      "ingrandisci": "Ingrandisci",
+      "di": "di"
+    },
+    "studio": {
+      "etichetta": "Missione",
+      "titolo": [
+        "Piccolo studio.",
+        "Universi interi."
+      ],
+      "testo": [
+        "NeoByte Studios è uno studio indipendente italiano. Costruiamo videogiochi originali per telefono e PC, dalla prima idea al lancio.",
+        "Non inseguiamo le mode. Accendiamo mondi in cui vale la pena tornare."
+      ],
+      "direttive": "Direttive",
+      "principi": [
+        {
+          "titolo": "Mondi originali",
+          "testo": "Ogni gioco ha la sua storia, i suoi personaggi e le sue regole. Niente copie, niente mondi presi in prestito."
+        },
+        {
+          "titolo": "Rotte chiare",
+          "testo": "Regole spiegate bene, probabilità dichiarate, dati trattati con cura. Chi gioca sa sempre dove sta andando."
+        },
+        {
+          "titolo": "Ogni orbita",
+          "testo": "Telefono e PC: ogni gioco arriva sugli store dove ha senso giocarlo, e da qui li raggiungi tutti."
+        }
+      ]
+    },
+    "contatti": {
+      "etichetta": "Contatti",
+      "titolo": "Apri un canale.",
+      "testo": "Una domanda su un gioco, un problema, una proposta: scrivici, rispondiamo di persona.",
+      "assistenza": "Assistenza e contatti",
+      "privacy": "Privacy e dati personali"
+    },
+    "piede": {
+      "motto": "Ogni gioco è un mondo.",
+      "ditta": "ditta individuale di",
+      "piva": "P.IVA",
+      "cookie": "Questo sito non usa cookie né strumenti di tracciamento.",
+      "marchi": "I marchi citati appartengono ai rispettivi proprietari.",
+      "diritti": "Tutti i diritti riservati.",
+      "su": "Torna su",
+      "social": "Seguici"
+    },
+    "errore": {
+      "titolo": "Segnale perso.",
+      "testo": "Questa rotta non porta a nessun mondo: forse il link è vecchio, o la pagina è stata spostata.",
+      "azione": "Torna alla base",
+      "gioca": "Gioca mentre aspetti il segnale"
+    },
+    "diario": {
+      "etichetta": "Diario di bordo",
+      "titolo": "Diario di bordo",
+      "sottotitolo": "Novità dai nostri mondi: lanci, aggiornamenti e rotte nuove.",
+      "leggi": "Leggi la voce",
+      "tutte": "Apri il diario",
+      "voce": "Voce",
+      "altre": "Altre voci",
+      "vaiAlGioco": "Entra nel mondo",
+      "dalDiario": "Dal diario di bordo",
+      "feed": "Feed RSS",
+      "titoloHome": [
+        "Ultime",
+        "dal ponte."
+      ]
+    },
+    "assistenza": {
+      "etichetta": "Assistenza",
+      "titolo": [
+        "Serve una mano?",
+        "Siamo in ascolto."
+      ],
+      "sottotitolo": "Le risposte alle domande più frequenti. Se non trovi la tua, scrivici.",
+      "generali": "Domande generali",
+      "domande": "Domande frequenti"
+    },
+    "stampa": {
+      "etichetta": "Stampa",
+      "titolo": "Sala stampa",
+      "sottotitolo": "Logo, immagini e descrizioni per chi scrive o parla dei nostri giochi.",
+      "scaricaTutto": "Scarica tutto",
+      "zipNota": "Un solo file .zip con logo, immagini e descrizioni.",
+      "studio": "Lo studio",
+      "logo": "Logo",
+      "logoNota": "File SVG e PNG, pensati per fondi scuri.",
+      "descrizione": "Descrizione",
+      "copia": "Copia il testo",
+      "copiato": "Copiato",
+      "file": "File da scaricare",
+      "scarica": "Scarica",
+      "uso": "Questi materiali servono a parlare dei giochi di NeoByte Studios: articoli, video, recensioni. Per altri usi scrivici.",
+      "contatto": "Contatto per la stampa",
+      "nome": "Nome",
+      "tipo": "Tipo",
+      "tipoValore": "Studio indipendente di videogiochi",
+      "paese": "Paese",
+      "paeseValore": "Italia",
+      "sito": "Sito",
+      "pagina": "Pagina del gioco",
+      "kitTitolo": "Press kit completo"
+    },
+    "mappa": {
+      "titolo": "Mappa stellare",
+      "testo": "Ogni orbita è un mondo. Quelle vuote aspettano il prossimo.",
+      "vuoto": "Nessun segnale"
+    },
+    "condividi": {
+      "azione": "Condividi",
+      "copiato": "Link copiato"
+    }
+  },
+  "en": {
+    "meta": {
+      "titoloHome": "NeoByte Studios — Every game is a world",
+      "descrizioneHome": "NeoByte Studios is an independent Italian studio building original video games for mobile and PC. Explore our worlds and find out where to get them.",
+      "titoloGiochi": "World map — NeoByte Studios",
+      "descrizioneGiochi": "All the video games by NeoByte Studios, with links to the stores where you can find them.",
+      "titolo404": "Signal lost — NeoByte Studios",
+      "titoloDiario": "Ship's log — NeoByte Studios",
+      "descrizioneDiario": "News from NeoByte Studios: launches, updates and new routes for our games.",
+      "titoloAssistenza": "Support — NeoByte Studios",
+      "descrizioneAssistenza": "Frequently asked questions about NeoByte Studios games, and how to contact support.",
+      "titoloStampa": "Press room — NeoByte Studios",
+      "descrizioneStampa": "Logos, images and descriptions of NeoByte Studios games, ready to download."
+    },
+    "nav": {
+      "giochi": "Games",
+      "studio": "Mission",
+      "contatti": "Contact",
+      "salta": "Skip to content",
+      "home": "NeoByte Studios, home page",
+      "lingua": "Language",
+      "principale": "Main navigation",
+      "diario": "Log",
+      "assistenza": "Support",
+      "stampa": "Press",
+      "menu": "Menu",
+      "chiudiMenu": "Close"
+    },
+    "hero": {
+      "occhiello": "Independent game studio · Italy",
+      "motto": [
+        "Every game is a world.",
+        "We build them."
+      ],
+      "testo": "Original video games for mobile and PC. Every title is a new world, with its own story, its own rules and its own light.",
+      "azione": "Explore the worlds",
+      "azione2": "The mission",
+      "telemetria": [
+        "Sector 4E·42",
+        "Worlds on the map",
+        "Course clear"
+      ],
+      "scorri": "Scroll to launch"
+    },
+    "giochi": {
+      "etichetta": "Games",
+      "titolo": "World map",
+      "sottotitolo": "Every NeoByte Studios game is a world on this map, with a course to the stores where you can find it.",
+      "inEvidenza": "Featured world",
+      "mondo": "World",
+      "scopri": "Enter the world",
+      "altri": "More worlds",
+      "tutti": "All games",
+      "vediTutti": "Open the full map",
+      "prossimoTitolo": "Uncharted sector",
+      "prossimoTesto": "The next NeoByte Studios world will appear here.",
+      "prossimoEtichetta": "No signal",
+      "filtro": "Filter by status",
+      "filtroTutti": "All",
+      "vuoto": "No worlds with this status."
+    },
+    "stato": {
+      "in-sviluppo": "In development",
+      "in-arrivo": "Coming soon",
+      "disponibile": "Available"
+    },
+    "store": {
+      "disponibileSu": "Get it on",
+      "prestoSu": "Soon on",
+      "inArrivoSu": "Coming soon to",
+      "inSviluppo": "In development: store pages will come later.",
+      "apreNuova": "opens in a new tab",
+      "titolo": "Where to get it"
+    },
+    "piattaforme": {
+      "android": "Android",
+      "ios": "iOS",
+      "pc": "PC",
+      "mac": "Mac",
+      "linux": "Linux",
+      "web": "Browser",
+      "console": "Console"
+    },
+    "gioco": {
+      "indietro": "World map",
+      "avvicinamento": "On approach",
+      "superficie": "View from the surface",
+      "ilGioco": "The world",
+      "caratteristiche": "What awaits you",
+      "schermate": "Screenshots",
+      "schermateTesto": "Tap an image to enlarge it.",
+      "trailer": "Trailer",
+      "guardaTrailer": "Watch the trailer",
+      "trailerNota": "The video loads from YouTube only after you tap.",
+      "scheda": "Details",
+      "genere": "Genre",
+      "piattaforme": "Platforms",
+      "stato": "Status",
+      "sviluppatore": "Developer",
+      "legali": "Game documents",
+      "privacy": "Privacy policy",
+      "termini": "Terms of use",
+      "eliminazioneAccount": "Account deletion",
+      "assistenza": "Support",
+      "altriGiochi": "More worlds",
+      "chiudi": "Close",
+      "precedente": "Previous image",
+      "successiva": "Next image",
+      "ingrandisci": "Enlarge",
+      "di": "of"
+    },
+    "studio": {
+      "etichetta": "Mission",
+      "titolo": [
+        "Small studio.",
+        "Whole universes."
+      ],
+      "testo": [
+        "NeoByte Studios is an independent Italian studio. We build original video games for mobile and PC, from the first idea to launch.",
+        "We do not chase trends. We light up worlds worth coming back to."
+      ],
+      "direttive": "Directives",
+      "principi": [
+        {
+          "titolo": "Original worlds",
+          "testo": "Every game has its own story, its own characters and its own rules. No copies, no borrowed worlds."
+        },
+        {
+          "titolo": "Clear courses",
+          "testo": "Rules explained properly, odds disclosed, data handled with care. Players always know where they are heading."
+        },
+        {
+          "titolo": "Every orbit",
+          "testo": "Mobile and PC: each game lands on the stores where it makes sense to play it, and you can reach them all from here."
+        }
+      ]
+    },
+    "contatti": {
+      "etichetta": "Contact",
+      "titolo": "Open a channel.",
+      "testo": "A question about a game, a problem, a proposal: write to us, we answer in person.",
+      "assistenza": "Support and contact",
+      "privacy": "Privacy and personal data"
+    },
+    "piede": {
+      "motto": "Every game is a world.",
+      "ditta": "sole proprietorship of",
+      "piva": "VAT no.",
+      "cookie": "This site uses no cookies and no tracking tools.",
+      "marchi": "All trademarks belong to their respective owners.",
+      "diritti": "All rights reserved.",
+      "su": "Back to top",
+      "social": "Follow us"
+    },
+    "errore": {
+      "titolo": "Signal lost.",
+      "testo": "This course leads to no world: maybe the link is old, or the page has been moved.",
+      "azione": "Back to base",
+      "gioca": "Play while you wait for the signal"
+    },
+    "diario": {
+      "etichetta": "Ship's log",
+      "titolo": "Ship's log",
+      "sottotitolo": "News from our worlds: launches, updates and new routes.",
+      "leggi": "Read the entry",
+      "tutte": "Open the log",
+      "voce": "Entry",
+      "altre": "More entries",
+      "vaiAlGioco": "Enter the world",
+      "dalDiario": "From the ship's log",
+      "feed": "RSS feed",
+      "titoloHome": [
+        "Latest",
+        "from the bridge."
+      ]
+    },
+    "assistenza": {
+      "etichetta": "Support",
+      "titolo": [
+        "Need a hand?",
+        "We are listening."
+      ],
+      "sottotitolo": "Answers to the most common questions. If yours is not here, write to us.",
+      "generali": "General questions",
+      "domande": "Frequently asked questions"
+    },
+    "stampa": {
+      "etichetta": "Press",
+      "titolo": "Press room",
+      "sottotitolo": "Logos, images and descriptions for anyone writing or talking about our games.",
+      "scaricaTutto": "Download everything",
+      "zipNota": "A single .zip file with logos, images and descriptions.",
+      "studio": "The studio",
+      "logo": "Logo",
+      "logoNota": "SVG and PNG files, made for dark backgrounds.",
+      "descrizione": "Description",
+      "copia": "Copy text",
+      "copiato": "Copied",
+      "file": "Files to download",
+      "scarica": "Download",
+      "uso": "These materials are for talking about NeoByte Studios games: articles, videos, reviews. For other uses, write to us.",
+      "contatto": "Press contact",
+      "nome": "Name",
+      "tipo": "Type",
+      "tipoValore": "Independent video game studio",
+      "paese": "Country",
+      "paeseValore": "Italy",
+      "sito": "Website",
+      "pagina": "Game page",
+      "kitTitolo": "Full press kit"
+    },
+    "mappa": {
+      "titolo": "Star map",
+      "testo": "Every orbit is a world. The empty ones are waiting for the next.",
+      "vuoto": "No signal"
+    },
+    "condividi": {
+      "azione": "Share",
+      "copiato": "Link copied"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Diario di bordo — NeoByte Studios</title>
+    <link>https://neobytestudios.com/diario/</link>
+    <description>Le novità di NeoByte Studios: lanci, aggiornamenti e rotte nuove dei nostri giochi.</description>
+    <language>it</language>
+    <atom:link href="https://neobytestudios.com/diario/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Sigilli dell’Eclisse è in rotta verso Google Play</title>
+      <link>https://neobytestudios.com/diario/sigilli-in-rotta-verso-google-play/</link>
+      <guid isPermaLink="true">https://neobytestudios.com/diario/sigilli-in-rotta-verso-google-play/</guid>
+      <pubDate>Thu, 19 Nov 2026 09:00:00 GMT</pubDate>
+      <description>Il Mondo 01 della nostra mappa si avvicina: un gioco di carte fantasy con 78 carte, ognuna in quattro forme, in arrivo su Android.</description>
+    </item>
+  </channel>
+</rss>

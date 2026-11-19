@@ -1,0 +1,161 @@
+[
+  {
+    "slug": "sigilli-dell-eclisse",
+    "nome": "Sigilli dell'Eclisse",
+    "inEvidenza": true,
+    "stato": "in-arrivo",
+    "tema": { "accento": "#f2a84b", "fontTitolo": "cinzel" },
+    "motto": {
+      "it": "Libera sei città dal Velo dell'Eclisse con carte fantasy che evolvono.",
+      "en": "Free six cities from the Veil of the Eclipse with fantasy cards that evolve."
+    },
+    "descrizioneBreve": {
+      "it": "Gioco di carte fantasy da collezionare: 78 carte, ognuna in quattro forme. Componi le squadre, libera le città, abbatti i boss.",
+      "en": "A collectible fantasy card game: 78 cards, each in four forms. Build your squads, free the cities, bring down the bosses."
+    },
+    "descrizione": {
+      "it": [
+        "Il Drago dell'Eclisse ha steso il suo Velo su sei città. La Guardiana ti aspetta al Ponte: raduna le tue carte e liberale, una a una.",
+        "Sotto il Velo le città si sono spente e chi le abitava ha dimenticato l'alba. I guardiani ora combattono per il Drago. Tocca a te riportare la luce.",
+        "Sigilli dell'Eclisse è un gioco di carte fantasy da collezionare: prepari la vittoria prima dello scontro, scegliendo le carte e il loro ordine, poi la battaglia va da sola."
+      ],
+      "en": [
+        "The Eclipse Dragon has cast its Veil over six cities. The Guardian is waiting for you at the Bridge: gather your cards and free them, one by one.",
+        "Under the Veil the cities have gone dark, and those who lived there have forgotten the dawn. Their guardians now fight for the Dragon. It is up to you to bring back the light.",
+        "Sigilli dell'Eclisse is a collectible fantasy card game: you win before the clash, by choosing your cards and their order, then the battle plays out on its own."
+      ]
+    },
+    "numeri": [
+      { "valore": "78", "etichetta": { "it": "carte da collezionare", "en": "cards to collect" } },
+      { "valore": "4", "etichetta": { "it": "forme per ogni carta", "en": "forms for every card" } },
+      { "valore": "6", "etichetta": { "it": "città da liberare", "en": "cities to free" } },
+      { "valore": "42", "etichetta": { "it": "quartieri da esplorare", "en": "districts to explore" } },
+      { "valore": "31", "etichetta": { "it": "combo tra carte", "en": "card combos" } }
+    ],
+    "punti": [
+      {
+        "titolo": { "it": "Evoca e fai evolvere", "en": "Summon and evolve" },
+        "testo": {
+          "it": "Evoca nuove carte con le pietre di evocazione, in sei rarità da Comune a Leggendaria. Unisci un'altra copia della stessa carta e falla evolvere: a ogni forma cambia illustrazione, fino alla quarta.",
+          "en": "Summon new cards with summoning stones, across six rarities from Common to Legendary. Merge another copy of the same card to evolve it: the artwork changes with every form, up to the fourth."
+        }
+      },
+      {
+        "titolo": { "it": "Componi le squadre", "en": "Build your squads" },
+        "testo": {
+          "it": "Ogni carta ha un'abilità che scatta da sola in battaglia: colpi, veleni, scudi, cure e perfino carte che rialzano una squadra caduta. 31 combo tra carte precise e un bonus per le carte dello stesso regno.",
+          "en": "Every card has an ability that triggers on its own in battle: strikes, poisons, shields, heals, even cards that raise a fallen squad. 31 combos between specific cards, plus a bonus for cards of the same realm."
+        }
+      },
+      {
+        "titolo": { "it": "Libera le città", "en": "Free the cities" },
+        "testo": {
+          "it": "Esplora 42 quartieri e affronta guardiani e boss: a ogni città liberata il Velo si dirada, fino alla porta del Drago.",
+          "en": "Explore 42 districts and face guardians and bosses: with every city you free the Veil grows thinner, all the way to the Dragon's gate."
+        }
+      },
+      {
+        "titolo": { "it": "Sfida l'Arena, abbatti i boss", "en": "Fight in the Arena, bring down bosses" },
+        "testo": {
+          "it": "Dal livello 30, ogni settimana sfida nell'Arena gli avversari vicini a te in classifica. Abbatti un Boss condiviso insieme agli altri giocatori entro un'ora: se cade, la sua carta va a chi ha fatto più danni.",
+          "en": "From level 30, every week you challenge the players ranked closest to you in the Arena. Bring down a shared Boss together with other players within an hour: if it falls, its card goes to whoever dealt the most damage."
+        }
+      }
+    ],
+    "generi": {
+      "it": ["Carte collezionabili", "Fantasy", "Strategia"],
+      "en": ["Collectible cards", "Fantasy", "Strategy"]
+    },
+    "piattaforme": ["android"],
+    "scheda": [
+      {
+        "etichetta": { "it": "Connessione", "en": "Connection" },
+        "valore": { "it": "Serve Internet: la partita è salvata sul server", "en": "Internet required: your game is saved on the server" }
+      },
+      {
+        "etichetta": { "it": "Acquisti", "en": "Purchases" },
+        "valore": { "it": "Facoltativi, con denaro reale", "en": "Optional, with real money" }
+      }
+    ],
+    "note": {
+      "it": [
+        "Serve una connessione a Internet: la partita è salvata sul server e la ritrovi su ogni telefono con lo stesso account Google.",
+        "Nel gioco ci sono acquisti facoltativi con denaro reale, anche di oggetti casuali (le pietre di evocazione): le probabilità sono nella schermata delle evocazioni e le pietre si guadagnano anche giocando."
+      ],
+      "en": [
+        "An Internet connection is required: your game is saved on the server and you will find it on any phone with the same Google account.",
+        "The game includes optional purchases with real money, including random items (summoning stones): the odds are shown on the summoning screen, and stones can also be earned by playing."
+      ]
+    },
+    "immagini": {
+      "icona": "icona.webp",
+      "copertina": {
+        "file": "copertina.webp",
+        "alt": {
+          "it": "Un ponte di pietra tra cascate e rovine, con l'eclisse sopra una città di guglie all'orizzonte",
+          "en": "A stone bridge among waterfalls and ruins, with the eclipse above a city of spires on the horizon"
+        }
+      },
+      "personaggio": {
+        "file": "guardiana.webp",
+        "alt": {
+          "it": "La Guardiana del Sigillo, in armatura, con spada e scudo",
+          "en": "The Guardian of the Seal, in armour, with sword and shield"
+        }
+      },
+      "condivisione": "condivisione.jpg",
+      "schermate": [
+        { "file": "schermate/01-casa.webp", "alt": { "it": "La schermata principale con la Guardiana sul Ponte", "en": "The main screen with the Guardian on the Bridge" } },
+        { "file": "schermate/02-mappa.webp", "alt": { "it": "La mappa della campagna con le città da liberare", "en": "The campaign map with the cities to free" } },
+        { "file": "schermate/03-quartiere.webp", "alt": { "it": "Un quartiere della Città dell'Eclisse con il suo guardiano", "en": "A district of the City of the Eclipse with its guardian" } },
+        { "file": "schermate/04-battaglia.webp", "alt": { "it": "Una battaglia: tre squadre di carte contro il Golem di Basalto", "en": "A battle: three squads of cards against the Basalt Golem" } },
+        { "file": "schermate/05-carta-t4.webp", "alt": { "it": "La scheda di una carta Leggendaria alla quarta forma", "en": "The details of a Legendary card in its fourth form" } },
+        { "file": "schermate/06-evocazione.webp", "alt": { "it": "Un'evocazione di dieci carte", "en": "A summon of ten cards" } },
+        { "file": "schermate/07-boss.webp", "alt": { "it": "L'incontro con un boss, presentato dalla Guardiana", "en": "A boss encounter, introduced by the Guardian" } },
+        { "file": "schermate/08-boss-condivisi.webp", "alt": { "it": "Un Boss condiviso con la classifica dei danni", "en": "A shared Boss with the damage ranking" } }
+      ],
+      "vetrina": {
+        "titolo": { "it": "Carte che lasciano il segno", "en": "Cards that leave a mark" },
+        "testo": {
+          "it": "Eroi, bestie e draghi di sei regni. Ogni carta ha un ruolo, un'abilità e un'illustrazione tutta sua.",
+          "en": "Heroes, beasts and dragons from six realms. Every card has its own role, ability and artwork."
+        },
+        "immagini": [
+          { "file": "carte/carta-94-t4.webp", "nome": "Idra delle Profondità", "alt": { "it": "Carta: Idra delle Profondità", "en": "Card: Idra delle Profondità, a many-headed sea hydra" } },
+          { "file": "carte/carta-27-t4.webp", "nome": "Salamandra del Torrente", "alt": { "it": "Carta: Salamandra del Torrente", "en": "Card: Salamandra del Torrente, a blue river salamander" } },
+          { "file": "carte/carta-09-t4.webp", "nome": "Guardiana del Sigillo", "alt": { "it": "Carta: Guardiana del Sigillo", "en": "Card: Guardiana del Sigillo, an armoured guardian" } },
+          { "file": "carte/carta-90-t4.webp", "nome": "Fenice dell'Alba", "alt": { "it": "Carta: Fenice dell'Alba", "en": "Card: Fenice dell'Alba, a golden phoenix" } },
+          { "file": "carte/carta-68-t4.webp", "nome": "Golem di Basalto", "alt": { "it": "Carta: Golem di Basalto", "en": "Card: Golem di Basalto, a golem of molten rock" } }
+        ]
+      },
+      "sequenza": {
+        "titolo": { "it": "Una carta, quattro forme", "en": "One card, four forms" },
+        "testo": {
+          "it": "Unisci le copie e guarda la carta crescere: a ogni evoluzione cambia l'illustrazione. Qui la Viverna dei Cristalli, dalla prima forma alla quarta.",
+          "en": "Merge copies and watch the card grow: the artwork changes with every evolution. Here is the Viverna dei Cristalli, from its first form to its fourth."
+        },
+        "immagini": [
+          { "file": "carte/carta-85-t1.webp", "nome": { "it": "Forma 1", "en": "Form 1" }, "alt": { "it": "Viverna dei Cristalli, prima forma", "en": "Viverna dei Cristalli, first form" } },
+          { "file": "carte/carta-85-t2.webp", "nome": { "it": "Forma 2", "en": "Form 2" }, "alt": { "it": "Viverna dei Cristalli, seconda forma", "en": "Viverna dei Cristalli, second form" } },
+          { "file": "carte/carta-85-t3.webp", "nome": { "it": "Forma 3", "en": "Form 3" }, "alt": { "it": "Viverna dei Cristalli, terza forma", "en": "Viverna dei Cristalli, third form" } },
+          { "file": "carte/carta-85-t4.webp", "nome": { "it": "Forma 4", "en": "Form 4" }, "alt": { "it": "Viverna dei Cristalli, quarta forma", "en": "Viverna dei Cristalli, fourth form" } }
+        ]
+      }
+    },
+    "trailer": "",
+    "store": {
+      "googlePlay": "",
+      "appStore": "",
+      "steam": "",
+      "epic": "",
+      "itch": "",
+      "altro": []
+    },
+    "inArrivoSu": ["googlePlay"],
+    "legali": {
+      "privacy": "/giochi/sigilli-dell-eclisse/privacy/",
+      "termini": "/giochi/sigilli-dell-eclisse/termini/",
+      "eliminazioneAccount": "/giochi/sigilli-dell-eclisse/elimina-account/"
+    }
+  }
+]

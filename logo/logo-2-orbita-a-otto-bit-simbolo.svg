@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="NeoByte Studios">
+<defs><radialGradient id="nb2sa" cx="34%" cy="28%" r="82%"><stop offset="0" stop-color="#fff"/><stop offset=".4" stop-color="#7fe0ff"/><stop offset="1" stop-color="#2440c8"/></radialGradient></defs>
+<g fill="none" stroke-linecap="round" transform="rotate(-22 32 32)"><path d="M2.63 31A29.5 10.6 0 0 1 9.27 25.24" stroke="#f2fcff" stroke-width="3.8"/><path d="M13.2 23.83A29.5 10.6 0 0 1 29.22 21.45" stroke="#f2fcff" stroke-width="3.8"/><path d="M34.78 21.45A29.5 10.6 0 0 1 50.8 23.83" stroke="#f2fcff" stroke-width="3.8"/><path d="M54.73 25.24A29.5 10.6 0 0 1 61.37 31" stroke="#4f9fe6" stroke-width="2.2"/></g>
+<circle cx="32" cy="32" r="13.2" fill="url(#nb2sa)"/>
+<g fill="none" stroke-linecap="round" transform="rotate(-22 32 32)"><path d="M61.37 33A29.5 10.6 0 0 1 54.73 38.76" stroke="#4f9fe6" stroke-width="2.2"/><path d="M50.8 40.17A29.5 10.6 0 0 1 34.78 42.55" stroke="#f2fcff" stroke-width="3.8"/><path d="M29.22 42.55A29.5 10.6 0 0 1 13.2 40.17" stroke="#4f9fe6" stroke-width="2.2"/><path d="M9.27 38.76A29.5 10.6 0 0 1 2.63 33" stroke="#4f9fe6" stroke-width="2.2"/></g>
+</svg>

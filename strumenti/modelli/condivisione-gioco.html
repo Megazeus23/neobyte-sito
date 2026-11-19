@@ -1,0 +1,29 @@
+<!doctype html><html><meta charset="utf-8"><title>Anteprima social di un gioco</title>
+<!-- Modello per strumenti/icone.py: l'anteprima 1200x630 di un gioco.
+     Parametri: ?slug= &titolo= (con | per andare a capo) &copertina= &icona= &personaggio= &cinzel=1 &logo=<nome in logo/> -->
+<link rel="stylesheet" href="../../sito/assets/css/sito.css">
+<style>html,body{margin:0;width:1200px;height:630px;overflow:hidden;background:#05060a}body{position:relative}
+.sf{position:absolute;inset:0;width:100%;height:100%;object-fit:cover}
+.velo{position:absolute;inset:0;background:linear-gradient(90deg,rgba(3,4,11,.95) 0,rgba(3,4,11,.82) 36%,rgba(3,4,11,.12) 74%),linear-gradient(0deg,rgba(3,4,11,.7),transparent 40%)}
+.fig{position:absolute;right:36px;top:34px;height:900px;width:auto;max-width:none;filter:drop-shadow(0 20px 40px rgba(0,0,0,.8))}
+.ic{position:absolute;left:66px;top:150px;width:96px;height:96px;border-radius:22px;border:1px solid rgba(255,255,255,.25)}
+h1{position:absolute;left:64px;top:270px;margin:0;font-size:88px;line-height:1.08;max-width:680px}
+.m{position:absolute;left:58px;bottom:38px;gap:8px}.m .marchio-segno{width:56px;height:56px}.m .marchio-nome{font-size:18px}.m .marchio-nome span{display:inline}
+[hidden]{display:none!important}
+</style>
+<body>
+<img class="sf" id="sf" alt=""><div class="velo"></div>
+<img class="fig" id="fig" alt="" hidden>
+<img class="ic" id="ic" alt="" hidden>
+<h1 id="t"></h1>
+<span class="marchio m"><img class="marchio-segno" id="s" alt=""><span class="marchio-nome">NeoByte<span> Studios</span></span></span>
+<script>
+const q = new URLSearchParams(location.search), base = '../../sito/assets/img/giochi/' + q.get('slug') + '/';
+const metti = (id, nome) => { if (q.get(nome)) { const e = document.getElementById(id); e.src = base + q.get(nome); e.hidden = false; } };
+metti('sf', 'copertina'); metti('fig', 'personaggio'); metti('ic', 'icona');
+const t = document.getElementById('t');
+if (q.get('cinzel')) t.className = 'tipo-cinzel';
+(q.get('titolo') || '').split('|').forEach((riga, i) => { if (i) t.append(document.createElement('br')); t.append(riga); });
+if (!q.get('icona')) t.style.top = '170px';
+document.getElementById('s').src = '../../logo/' + q.get('logo') + '-simbolo.svg';
+</script></body></html>

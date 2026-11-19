@@ -1,0 +1,80 @@
+[
+  {
+    "domanda": { "it": "Dove trovo i giochi di NeoByte Studios?", "en": "Where can I find NeoByte Studios games?" },
+    "risposta": {
+      "it": ["Solo sugli store ufficiali. Nella pagina di ogni gioco trovi i link; se uno store non è ancora attivo, lo vedi segnato come «Presto su…»."],
+      "en": ["Only on the official stores. Each game page has the links; if a store is not live yet, it is marked as “Soon on…”."]
+    },
+    "link": { "etichetta": { "it": "Apri la mappa dei mondi", "en": "Open the world map" }, "pagina": "giochi" }
+  },
+  {
+    "domanda": { "it": "Su quali dispositivi escono i vostri giochi?", "en": "Which devices are your games for?" },
+    "risposta": {
+      "it": ["Dipende dal gioco. Le piattaforme sono indicate nella sua pagina, nella «Scheda»."],
+      "en": ["It depends on the game. The platforms are listed on its page, under “Details”."]
+    }
+  },
+  {
+    "domanda": { "it": "Ho un problema con un gioco: a chi scrivo?", "en": "I have a problem with a game: who do I write to?" },
+    "risposta": {
+      "it": ["Scrivi a support@neobytestudios.com. Indica il gioco, il dispositivo che usi e che cosa è successo: rispondiamo di persona."],
+      "en": ["Write to support@neobytestudios.com. Tell us the game, the device you use and what happened: we answer in person."]
+    },
+    "link": { "etichetta": { "it": "Scrivi all'assistenza", "en": "Write to support" }, "url": "mailto:support@neobytestudios.com" }
+  },
+  {
+    "domanda": { "it": "Come chiedo di eliminare il mio account o i miei dati?", "en": "How do I ask to delete my account or my data?" },
+    "risposta": {
+      "it": ["Ogni gioco ha la sua pagina per l'eliminazione dell'account: la trovi nella pagina del gioco, tra i «Documenti del gioco». Per qualsiasi domanda sui dati personali scrivi a privacy@neobytestudios.com."],
+      "en": ["Each game has its own account deletion page: you will find it on the game page, under “Game documents”. For any question about personal data, write to privacy@neobytestudios.com."]
+    }
+  },
+  {
+    "domanda": { "it": "Questo sito usa cookie?", "en": "Does this site use cookies?" },
+    "risposta": {
+      "it": ["No. Questo sito non usa cookie né strumenti di tracciamento. Le tue preferenze, come il suono d'ambiente acceso o spento, restano solo sul tuo dispositivo."],
+      "en": ["No. This site uses no cookies and no tracking tools. Your preferences, such as ambient sound on or off, stay on your device only."]
+    }
+  },
+  {
+    "domanda": { "it": "Scrivo o faccio video sui vostri giochi: dove trovo logo e immagini?", "en": "I write or make videos about your games: where do I find logos and images?" },
+    "risposta": {
+      "it": ["Nella sala stampa: logo, immagini e descrizioni, anche in un unico file da scaricare."],
+      "en": ["In the press room: logos, images and descriptions, also as a single file to download."]
+    },
+    "link": { "etichetta": { "it": "Apri la sala stampa", "en": "Open the press room" }, "pagina": "stampa" }
+  },
+  {
+    "gioco": "sigilli-dell-eclisse",
+    "domanda": { "it": "Quando esce Sigilli dell'Eclisse?", "en": "When is Sigilli dell'Eclisse coming out?" },
+    "risposta": {
+      "it": ["È in arrivo su Google Play, per telefoni Android. La data non è ancora annunciata: quando ci sarà, la troverai nel Diario di bordo e nella pagina del gioco."],
+      "en": ["It is coming to Google Play, for Android phones. The date has not been announced yet: when there is one, you will find it in the Ship's log and on the game page."]
+    },
+    "link": { "etichetta": { "it": "Vai alla pagina del gioco", "en": "Go to the game page" }, "pagina": "gioco:sigilli-dell-eclisse" }
+  },
+  {
+    "gioco": "sigilli-dell-eclisse",
+    "domanda": { "it": "Serve Internet per giocare?", "en": "Do I need the Internet to play?" },
+    "risposta": {
+      "it": ["Sì. Serve una connessione a Internet: la partita è salvata sul server e la ritrovi su ogni telefono con lo stesso account Google."],
+      "en": ["Yes. An Internet connection is required: your game is saved on the server and you will find it on any phone with the same Google account."]
+    }
+  },
+  {
+    "gioco": "sigilli-dell-eclisse",
+    "domanda": { "it": "Ci sono acquisti nel gioco?", "en": "Are there purchases in the game?" },
+    "risposta": {
+      "it": ["Nel gioco ci sono acquisti facoltativi con denaro reale, anche di oggetti casuali (le pietre di evocazione). Le probabilità sono nella schermata delle evocazioni e le pietre si guadagnano anche giocando."],
+      "en": ["The game includes optional purchases with real money, including random items (summoning stones). The odds are shown on the summoning screen, and stones can also be earned by playing."]
+    }
+  },
+  {
+    "gioco": "sigilli-dell-eclisse",
+    "domanda": { "it": "Come funzionano le quattro forme delle carte?", "en": "How do the four card forms work?" },
+    "risposta": {
+      "it": ["Ogni carta ha quattro forme. Unisci un'altra copia della stessa carta e la fai evolvere: a ogni forma cambia illustrazione, fino alla quarta."],
+      "en": ["Every card has four forms. Merge another copy of the same card to evolve it: the artwork changes with every form, up to the fourth."]
+    }
+  }
+]

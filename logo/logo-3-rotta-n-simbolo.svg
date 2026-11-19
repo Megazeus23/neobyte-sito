@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="NeoByte Studios">
+<defs><linearGradient id="nb3sa" gradientUnits="userSpaceOnUse" x1="10" y1="54" x2="54" y2="10"><stop offset="0" stop-color="#2a4bd6"/><stop offset=".55" stop-color="#7fe0ff"/><stop offset="1" stop-color="#fff"/></linearGradient>
+<radialGradient id="nb3sb" cx="34%" cy="28%" r="82%"><stop offset="0" stop-color="#fff"/><stop offset=".5" stop-color="#d6f6ff"/><stop offset="1" stop-color="#7fc4ff"/></radialGradient></defs>
+<polygon points="10.5,53 10.5,11 22,11 43.5,38.3 43.5,11 53.5,11 53.5,53 42,53 20.5,25.7 20.5,53" fill="url(#nb3sa)"/>
+<circle cx="35.4" cy="17.4" r="5.4" fill="url(#nb3sb)"/>
+</svg>

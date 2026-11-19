@@ -1,0 +1,20 @@
+{
+  "nome": "NeoByte Studios",
+  "urlSito": "https://neobytestudios.com",
+  "email": {
+    "contatti": "support@neobytestudios.com",
+    "privacy": "privacy@neobytestudios.com"
+  },
+  "legale": {
+    "titolare": "Jetmir Lleshi",
+    "indirizzo": "Via Guglielmo Marconi 37/A, 39055 Laives (BZ)",
+    "partitaIva": "03297110219"
+  },
+  "social": {
+    "youtube": "",
+    "instagram": "",
+    "tiktok": "",
+    "x": "",
+    "discord": ""
+  }
+}

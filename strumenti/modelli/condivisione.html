@@ -1,0 +1,19 @@
+<!doctype html><html class="js"><meta charset="utf-8"><title>Anteprima social dello studio</title>
+<!-- Modello per strumenti/icone.py: l'anteprima 1200x630 della home. Parametri: ?l=it|en &logo=<nome in logo/>
+     Le due frasi qui sotto sono le stesse della home (dati/testi.json): se cambiano lì, cambiarle anche qui. -->
+<link rel="stylesheet" href="../../sito/assets/css/sito.css">
+<style>body{overflow:hidden}.eroe{min-height:630px;height:630px;padding:0 0 132px}.orizzonte{transform:translate(-50%,calc(100% - 128px))!important}.orizzonte-sole{bottom:128px!important}.insegna-a{font-size:138px}.insegna-b{font-size:20px}.eroe-motto{font-size:38px;margin-top:18px}.occhiello{font-size:15px}main,.piede{animation:none!important}
+.segno{display:block;width:92px;height:92px;margin:0 auto 6px;filter:drop-shadow(0 0 22px rgba(110,190,255,.6))}</style>
+<body><div class="cosmo"></div>
+<section class="eroe"><div class="contenitore eroe-dentro">
+<img class="segno" id="s" alt="">
+<p class="occhiello" id="o"></p>
+<h1 class="insegna"><span class="insegna-a">NeoByte</span> <span class="insegna-b"><b>Studios</b></span></h1>
+<p class="eroe-motto" id="m"></p></div>
+<div class="orizzonte-sole"></div><div class="orizzonte"></div></section>
+<script>
+const q = new URLSearchParams(location.search), en = q.get('l') === 'en';
+document.getElementById('s').src = '../../logo/' + q.get('logo') + '-simbolo.svg';
+document.getElementById('o').textContent = en ? 'Independent game studio · Italy' : 'Studio indipendente di videogiochi · Italia';
+document.getElementById('m').innerHTML = en ? '<span>Every game is a world.</span> <span>We build them.</span>' : '<span>Ogni gioco è un mondo.</span> <span>Noi li costruiamo.</span>';
+</script></body></html>

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="NeoByte Studios">
+<defs>
+<linearGradient id="nb4sa" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#03040b"/><stop offset=".62" stop-color="#0b1648"/><stop offset="1" stop-color="#16308f"/></linearGradient>
+<radialGradient id="nb4sb" gradientUnits="userSpaceOnUse" cx="32" cy="43" r="21"><stop offset="0" stop-color="#bfeeff" stop-opacity=".95"/><stop offset=".45" stop-color="#5aa8ff" stop-opacity=".45"/><stop offset="1" stop-color="#5aa8ff" stop-opacity="0"/></radialGradient>
+<radialGradient id="nb4sc" gradientUnits="userSpaceOnUse" cx="32" cy="100" r="58"><stop offset=".8" stop-color="#050a26"/><stop offset="1" stop-color="#17309a"/></radialGradient>
+<linearGradient id="nb4sd" gradientUnits="userSpaceOnUse" x1="6" y1="0" x2="58" y2="0"><stop offset="0" stop-color="#7fe0ff" stop-opacity="0"/><stop offset=".5" stop-color="#fff"/><stop offset="1" stop-color="#7fe0ff" stop-opacity="0"/></linearGradient>
+<clipPath id="nb4se"><rect x="6" y="6" width="52" height="52" rx="13"/></clipPath></defs>
+<rect x="6" y="6" width="52" height="52" rx="13" fill="url(#nb4sa)"/>
+<g clip-path="url(#nb4se)">
+<circle cx="18" cy="17" r="1.1" fill="#dff6ff"/><circle cx="44" cy="14" r=".9" fill="#dff6ff"/><circle cx="50" cy="26" r="1.2" fill="#dff6ff"/><circle cx="27" cy="25" r=".8" fill="#dff6ff"/><circle cx="13" cy="30" r=".8" fill="#dff6ff"/>
+<circle cx="32" cy="43" r="21" fill="url(#nb4sb)"/>
+<circle cx="32" cy="43" r="8.2" fill="#fff"/>
+<circle cx="32" cy="100" r="58" fill="url(#nb4sc)"/>
+<path d="M4.77 48.79A58 58 0 0 1 59.23 48.79" fill="none" stroke="#bfeeff" stroke-width="1.8"/>
+<rect x="6" y="41.2" width="52" height="1.4" fill="url(#nb4sd)"/>
+</g>
+<rect x="6" y="6" width="52" height="52" rx="13" fill="none" stroke="#7fe0ff" stroke-width="1.8"/>
+</svg>
