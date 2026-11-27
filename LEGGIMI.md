@@ -120,7 +120,7 @@ Tutti in `dati/studio.json`, sezione `legale` (la costruzione li ricorda a ogni 
 
 - `[TITOLARE DELLA DITTA]` — nome del titolare della ditta individuale
 - `[INDIRIZZO]` — sede
-- `[P.IVA]` — partita IVA
+- `[P.IVA]` — partita IVA (compilata: 03297110219; il numero REA è in `dati/studio.json`)
 
 Compaiono nel piè di ogni pagina. Altre cose da confermare:
 

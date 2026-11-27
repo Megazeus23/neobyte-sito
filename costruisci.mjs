@@ -403,7 +403,7 @@ function piede(c, alternative) {
       </div>
     </div>
     <div class="contenitore piede-legale">
-      <p>© ${new Date().getFullYear()} ${esc(studio.nome)} — ${txt(c.t.piede.ditta)} ${esc(studio.legale.titolare)} · ${esc(studio.legale.indirizzo)} · ${txt(c.t.piede.piva)} ${esc(studio.legale.partitaIva)}. ${txt(c.t.piede.diritti)}</p>
+      <p>© ${new Date().getFullYear()} ${esc(studio.nome)} — ${txt(c.t.piede.ditta)} ${esc(studio.legale.titolare)} · ${esc(studio.legale.indirizzo)} · ${txt(c.t.piede.piva)} ${esc(studio.legale.partitaIva)} · ${txt(c.t.piede.rea)} ${esc(studio.legale.rea)}. ${txt(c.t.piede.diritti)}</p>
       <p>${txt(c.t.piede.cookie)} ${txt(c.t.piede.marchi)}</p>
       <p><a class="torna-su" href="#contenuto">${txt(c.t.piede.su)}${ICONE.su}</a></p>
     </div>
